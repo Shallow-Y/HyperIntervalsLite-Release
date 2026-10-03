@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "channel": "lite",
+  "versionName": "26.10.1",
+  "versionCode": 2026100301,
+  "tagName": "v26.10.1",
+  "title": "HyperIntervals Lite",
+  "changelog": [
+    "HyperIntervals Lite 正式版更新，本次更新后Lite版正式发布，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "",
+    "新增 HyperIntervals Lite版发布"
+  ],
+  "publishedAt": "2026-10-03",
+  "downloads": {
+    "github": {
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervalsLite-Release/releases/tag/v26.10.1",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervalsLite-Release/releases/download/v26.10.1/app-release.apk"
+    },
+    "gitee": {
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-lite-Release/releases/tag/v26.10.1",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-lite-Release/releases/download/v26.10.1/app-release.apk"
+    }
+  }
+}
