@@ -1,24 +1,25 @@
 {
   "schemaVersion": 1,
   "channel": "lite",
-  "versionName": "26.10.1",
-  "versionCode": 2026100301,
-  "tagName": "v26.10.1",
+  "versionName": "26.10.2.Lite",
+  "versionCode": 2026100502,
+  "tagName": "v26.10.2.Lite",
   "title": "HyperIntervals Lite",
   "changelog": [
-    "HyperIntervals Lite 正式版更新，本次更新后Lite版正式发布，欢迎前往「设置→帮助与反馈」提交反馈~",
+    "HyperIntervals Lite 正式版更新，本次更新修复了部分已知问题，欢迎前往「设置→帮助与反馈」提交反馈~",
     "",
-    "新增 HyperIntervals Lite版发布"
+    "优化 关于应用页面的显示效果",
+    "修复 平板端平行视界失效的问题"
   ],
-  "publishedAt": "2026-10-03",
+  "publishedAt": "2026-10-05",
   "downloads": {
     "github": {
-      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervalsLite-Release/releases/tag/v26.10.1",
-      "apkUrl": "https://github.com/Shallow-Y/HyperIntervalsLite-Release/releases/download/v26.10.1/app-release.apk"
+      "releaseUrl": "https://github.com/Shallow-Y/HyperIntervalsLite-Release/releases/tag/v26.10.2",
+      "apkUrl": "https://github.com/Shallow-Y/HyperIntervalsLite-Release/releases/download/v26.10.2.Lite/app-release.apk"
     },
     "gitee": {
-      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-lite-Release/releases/tag/v26.10.1",
-      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-lite-Release/releases/download/v26.10.1/app-release.apk"
+      "releaseUrl": "https://gitee.com/shallow-y/hyper-intervals-lite-Release/releases/tag/v26.10.2.Lite",
+      "apkUrl": "https://gitee.com/shallow-y/hyper-intervals-lite-Release/releases/download/v26.10.2.Lite/app-release.apk"
     }
   }
 }
